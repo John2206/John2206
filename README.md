@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am student at HTL Spengergasse, Vienna, Austria.
+I am currently learning some new programming languages.
+How to reach me: loe240286@spengergasse.at
+I am currently working on an app I want to bring to the Play Store.
+
+
 <!--
 **John2206/John2206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
