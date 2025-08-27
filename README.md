@@ -3,7 +3,6 @@
 I am student at HTL Spengergasse, Vienna, Austria.
 I am currently learning some new programming languages.
 How to reach me: loe240286@spengergasse.at
-I am currently working on an app I want to bring to the Play Store.
 
 
 <!--
